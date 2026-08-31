@@ -4,4 +4,4 @@ segundos = tempodeslocamento * 3600
 distancia = 30 * segundos
 metros = distancia * 1000
 
-print(f'Distância percorrida em metros: {metros:.2f}')
+print(f'Distância percorrida em metros: {metros}')
