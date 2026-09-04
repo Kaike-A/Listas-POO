@@ -8,4 +8,3 @@ for i in range(1, 11):
 
 for chave, valor in quadrados.items():
     print(f'{chave}: {valor}')
-    asojkfnasn
