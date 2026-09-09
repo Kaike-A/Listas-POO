@@ -11,4 +11,4 @@ for nome, dados in estudantes.items():
     print(f"Nota 1: {dados['Nota 1']}")
     print(f"Nota 2: {dados['Nota 2']}")
     print(f"Média: {dados['Média']}")
-    print(f"Situação: {situacao}\n")
+    print(f"Situação: {situacao}\n")a
