@@ -118,4 +118,5 @@ Os códigos foram organizados de acordo com as listas de exercícios e podem ser
 ## 👨‍💻 Autor
 
 **Kaike Amorim da Silva**
+
 Estudante de Licenciatura em Ciência da Computação (LCC).
